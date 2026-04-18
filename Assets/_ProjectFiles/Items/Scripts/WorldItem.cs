@@ -77,4 +77,4 @@ public class WorldItem : MonoBehaviour, IInteractable
 
         return itemData.isKey || itemData.itemKind == ItemKind.Key;
     }
-}
+}   
